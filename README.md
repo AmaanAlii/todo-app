@@ -91,7 +91,7 @@ This project follows GitHub Flow.
 - Conventional Commits
 - Pull Requests for integration
 - Self-review before merging
-- Automated quality checks through GitHub Actions
+- Automated quality checks (planned)
 
 ## Planned Improvements
 
