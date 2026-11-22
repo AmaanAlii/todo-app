@@ -8,7 +8,7 @@ export default function AddTodoForm() {
         type="text"
         className="h-[45px] border border-black/[12%] rounded-md my-[9px] text-[14px] block w-full p-[16px]"
       />
-      <PrimaryButton>Add to list</PrimaryButton>
+      <PrimaryButton type="submit">Add to list</PrimaryButton>
     </form>
   );
 }
